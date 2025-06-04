@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte da avaliação da disciplina de **Desenvolvimento Web**, ministrada pelo professor **Bruno Zolotarref** na **Fatec Diadema**.
 
-https://via.placeholder.com/800x400?text=Preview+do+Sistema+Administrativo
+[PARA ACESSAR O SITE, CLIQUE AQUI](https://emillybudribognar.github.io/sistema-administrativo/)
 
 ## 💻 Stack Tecnológica
 
